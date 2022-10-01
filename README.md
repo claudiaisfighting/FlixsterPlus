@@ -36,7 +36,7 @@ Here's a walkthrough of implemented user stories:
 GIF created with LICEcap  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
+[ScreenToGif](https://github.com/claudiaisfighting/FlixsterPlus/blob/main/project4.gif) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
